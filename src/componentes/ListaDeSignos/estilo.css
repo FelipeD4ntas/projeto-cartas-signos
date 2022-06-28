@@ -1,0 +1,14 @@
+.lista {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 1024px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+align-items: center;
+}
